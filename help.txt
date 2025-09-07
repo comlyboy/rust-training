@@ -3,4 +3,5 @@ https://github.com/jeremychone-channel/rust-axum-course
 https://www.youtube.com/watch?v=rQ_J9WH6CGk
 https://www.youtube.com/watch?v=XZtlD_m59sM
 https://www.youtube.com/watch?v=BpPEoZW5IiY
+https://www.youtube.com/watch?v=EQfGDIyC7ng
 https://github.com/3rfaan/courses/tree/main/Rust/rust-by-practice/src
